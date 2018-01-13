@@ -1,0 +1,780 @@
+#EXTINF:-1,VIP BEINSPORTS-NEWS
+http://ip.fannan.se:8000/live/332/332/6836.ts
+#EXTINF:-1,Bein sport 1 HD
+http://ip.fannan.se:8000/live/332/332/6811.ts
+#EXTINF:-1,Bein sport 2 HD
+http://ip.fannan.se:8000/live/332/332/6810.ts
+#EXTINF:-1,Bein sport 3 HD
+http://ip.fannan.se:8000/live/332/332/6809.ts
+#EXTINF:-1,Bein sport 4 HD
+http://ip.fannan.se:8000/live/332/332/6808.ts
+#EXTINF:-1,Bein sport 5 HD
+http://ip.fannan.se:8000/live/332/332/6807.ts
+#EXTINF:-1,Bein sport 6 HD
+http://ip.fannan.se:8000/live/332/332/6806.ts
+#EXTINF:-1,Bein sport 7 HD
+http://ip.fannan.se:8000/live/332/332/6805.ts
+#EXTINF:-1,Bein sport 8 HD
+http://ip.fannan.se:8000/live/332/332/6804.ts
+#EXTINF:-1,Bein sport 9 HD
+http://ip.fannan.se:8000/live/332/332/6803.ts
+#EXTINF:-1,Bein sport 10 HD
+http://ip.fannan.se:8000/live/332/332/6802.ts
+#EXTINF:-1,Bein sport 11 HD
+http://ip.fannan.se:8000/live/332/332/6801.ts
+#EXTINF:-1,Bein sport 12 HD
+http://ip.fannan.se:8000/live/332/332/6800.ts
+#EXTINF:-1,SFR SPORT 1HD
+http://ip.fannan.se:8000/live/332/332/6796.ts
+#EXTINF:-1,SFR SPORT 2HD
+http://ip.fannan.se:8000/live/332/332/6795.ts
+#EXTINF:-1,SFR SPORT 3HD
+http://ip.fannan.se:8000/live/332/332/6794.ts
+#EXTINF:-1,Bein Sport 1HD FR
+http://ip.fannan.se:8000/live/332/332/6799.ts
+#EXTINF:-1,Bein Sport 2HD FR
+http://ip.fannan.se:8000/live/332/332/6798.ts
+#EXTINF:-1,Bein Sport 3HD FR
+http://ip.fannan.se:8000/live/332/332/6797.ts
+#EXTINF:-1,BEIN SPORTS MAX 4 HD
+http://ip.fannan.se:8000/live/332/332/6793.ts
+#EXTINF:-1,BEIN SPORTS MAX 5 HD
+http://ip.fannan.se:8000/live/332/332/6792.ts
+#EXTINF:-1,BEIN SPORTS MAX 6 HD
+http://ip.fannan.se:8000/live/332/332/6791.ts
+#EXTINF:-1,BEIN SPORTS MAX 7 HD
+http://ip.fannan.se:8000/live/332/332/6790.ts
+#EXTINF:-1,BEIN SPORTS MAX 8 HD
+http://ip.fannan.se:8000/live/332/332/6789.ts
+#EXTINF:-1,BEIN SPORTS MAX 9 HD
+http://ip.fannan.se:8000/live/332/332/6788.ts
+#EXTINF:-1,****_Sport Arab _****
+http://ip.fannan.se:8000/live/332/332/6773.ts
+#EXTINF:-1,AR Abu-Dhabi_Sports_1_HD
+http://ip.fannan.se:8000/live/332/332/6770.ts
+#EXTINF:-1,AR Abu-Dhabi_Sports_2_HD
+http://ip.fannan.se:8000/live/332/332/6769.ts
+#EXTINF:-1,AR Abu-Dhabi_Sports_3_HD
+http://ip.fannan.se:8000/live/332/332/6768.ts
+#EXTINF:-1,AR Abu-Dhabi_Sports_4_HD
+http://ip.fannan.se:8000/live/332/332/6767.ts
+#EXTINF:-1,AR Abu-Dhabi_Sports_5_HD
+http://ip.fannan.se:8000/live/332/332/6766.ts
+#EXTINF:-1,AR:ALKASS_SPORT_1_HD
+http://ip.fannan.se:8000/live/332/332/6765.ts
+#EXTINF:-1,AR:ALKASS_SPORT_2_HD
+http://ip.fannan.se:8000/live/332/332/6764.ts
+#EXTINF:-1,AR:ALKASS_SPORT_3_HD
+http://ip.fannan.se:8000/live/332/332/6763.ts
+#EXTINF:-1,AR:ALKASS_SPORT_4_HD
+http://ip.fannan.se:8000/live/332/332/6762.ts
+#EXTINF:-1,AR:ALKASS_SPORT_5_HD
+http://ip.fannan.se:8000/live/332/332/6761.ts
+#EXTINF:-1,AR: MBC_PRO_SPORT_1
+http://ip.fannan.se:8000/live/332/332/6760.ts
+#EXTINF:-1,AR:MBC_PRO_SPORT_2
+http://ip.fannan.se:8000/live/332/332/6759.ts
+#EXTINF:-1,AR:MBC_PRO_SPORT_3
+http://ip.fannan.se:8000/live/332/332/6758.ts
+#EXTINF:-1,AR AD-SPORT1
+http://ip.fannan.se:8000/live/332/332/6772.ts
+#EXTINF:-1,AR AD-Sport2
+http://ip.fannan.se:8000/live/332/332/6771.ts
+#EXTINF:-1,****_ARABE Channels _****
+http://ip.fannan.se:8000/live/332/332/7157.ts
+#EXTINF:-1,AR MBC1
+http://ip.fannan.se:8000/live/332/332/7156.ts
+#EXTINF:-1,AR MBC2
+http://ip.fannan.se:8000/live/332/332/7155.ts
+#EXTINF:-1,AR MBC3
+http://ip.fannan.se:8000/live/332/332/7154.ts
+#EXTINF:-1,AR MBC4
+http://ip.fannan.se:8000/live/332/332/7153.ts
+#EXTINF:-1,AR MBCAction
+http://ip.fannan.se:8000/live/332/332/7152.ts
+#EXTINF:-1,AR MBCDRAMA
+http://ip.fannan.se:8000/live/332/332/7151.ts
+#EXTINF:-1,AR MBCMAX
+http://ip.fannan.se:8000/live/332/332/7150.ts
+#EXTINF:-1,AR MBC_Masr
+http://ip.fannan.se:8000/live/332/332/7149.ts
+#EXTINF:-1,AR MBC-Bollywood
+http://ip.fannan.se:8000/live/332/332/8628.ts
+#EXTINF:-1,AR MBC_Masr2
+http://ip.fannan.se:8000/live/332/332/7148.ts
+#EXTINF:-1,AR MBC-1-HD
+http://ip.fannan.se:8000/live/332/332/7147.ts
+#EXTINF:-1,AR MBC-2-HD
+http://ip.fannan.se:8000/live/332/332/7146.ts
+#EXTINF:-1,AR MBC-3-HD
+http://ip.fannan.se:8000/live/332/332/7145.ts
+#EXTINF:-1,AR MBC-4-HD
+http://ip.fannan.se:8000/live/332/332/7144.ts
+#EXTINF:-1,AR MBC-ACTION-HD
+http://ip.fannan.se:8000/live/332/332/7141.ts
+#EXTINF:-1,AR MBC-DRAMA-HD
+http://ip.fannan.se:8000/live/332/332/7142.ts
+#EXTINF:-1,AR MBC-DRAMA-USA
+http://ip.fannan.se:8000/live/332/332/7143.ts
+#EXTINF:-1,AR SeeVii Al Aoula HD ARB
+http://ip.fannan.se:8000/live/332/332/7140.ts
+#EXTINF:-1,AR SeeVii Beelink HD ARB
+http://ip.fannan.se:8000/live/332/332/7139.ts
+#EXTINF:-1,AR SeeVii Drama HD ARB
+http://ip.fannan.se:8000/live/332/332/7138.ts
+#EXTINF:-1,AR SeeVii Shamiya HD ARB
+http://ip.fannan.se:8000/live/332/332/7137.ts
+#EXTINF:-1,AR Al Manar
+http://ip.fannan.se:8000/live/332/332/7117.ts
+#EXTINF:-1,AR AL-MAYADEENTV
+http://ip.fannan.se:8000/live/332/332/7123.ts
+#EXTINF:-1,AR Aljadeed
+http://ip.fannan.se:8000/live/332/332/7116.ts
+#EXTINF:-1,AR MTV-Lebanon
+http://ip.fannan.se:8000/live/332/332/7124.ts
+#EXTINF:-1,AR FUTURE-TV
+http://ip.fannan.se:8000/live/332/332/7113.ts
+#EXTINF:-1,AR LBC
+http://ip.fannan.se:8000/live/332/332/7122.ts
+#EXTINF:-1,AR LDC
+http://ip.fannan.se:8000/live/332/332/7121.ts
+#EXTINF:-1,AR Lebanon-TV
+http://ip.fannan.se:8000/live/332/332/7119.ts
+#EXTINF:-1,AR NBN
+http://ip.fannan.se:8000/live/332/332/7118.ts
+#EXTINF:-1,AR Otv Lebanon
+http://ip.fannan.se:8000/live/332/332/7115.ts
+#EXTINF:-1,AR SYRIA
+http://ip.fannan.se:8000/live/332/332/7109.ts
+#EXTINF:-1,AR SYRIA Drama
+http://ip.fannan.se:8000/live/332/332/7108.ts
+#EXTINF:-1,AR SAMA-SYRIA
+http://ip.fannan.se:8000/live/332/332/7110.ts
+#EXTINF:-1,AR EKHBARIYA-AL-SORIYA
+http://ip.fannan.se:8000/live/332/332/6989.ts
+#EXTINF:-1,AR ZEE-AFLAM
+http://ip.fannan.se:8000/live/332/332/7112.ts
+#EXTINF:-1,AR Zee Alwan
+http://ip.fannan.se:8000/live/332/332/7111.ts
+#EXTINF:-1,AR NABD-SYRIA
+http://ip.fannan.se:8000/live/332/332/7107.ts
+#EXTINF:-1,AR Rotana
+http://ip.fannan.se:8000/live/332/332/7136.ts
+#EXTINF:-1,AR Rotana_Cinema_EGY
+http://ip.fannan.se:8000/live/332/332/7135.ts
+#EXTINF:-1,AR Rotana_Cinema_KSA
+http://ip.fannan.se:8000/live/332/332/7134.ts
+#EXTINF:-1,AR Rotana_Classic
+http://ip.fannan.se:8000/live/332/332/7133.ts
+#EXTINF:-1,AR Rotana_Clip
+http://ip.fannan.se:8000/live/332/332/7132.ts
+#EXTINF:-1,AR Rotana_Khalijiah
+http://ip.fannan.se:8000/live/332/332/7131.ts
+#EXTINF:-1,AR Rotana_Masriya
+http://ip.fannan.se:8000/live/332/332/7130.ts
+#EXTINF:-1,AR ART_Cinema
+http://ip.fannan.se:8000/live/332/332/7129.ts
+#EXTINF:-1,AR Aflam_1
+http://ip.fannan.se:8000/live/332/332/7128.ts
+#EXTINF:-1,AR Aflam_2
+http://ip.fannan.se:8000/live/332/332/7127.ts
+#EXTINF:-1,AR Hekayat
+http://ip.fannan.se:8000/live/332/332/7126.ts
+#EXTINF:-1,AR Hekayat_2
+http://ip.fannan.se:8000/live/332/332/7125.ts
+#EXTINF:-1,AR 2M_Maroc
+http://ip.fannan.se:8000/live/332/332/6907.ts
+#EXTINF:-1,AR AAJTV-AFLAM
+http://ip.fannan.se:8000/live/332/332/6906.ts
+#EXTINF:-1,AR AD-AL-EMARAT
+http://ip.fannan.se:8000/live/332/332/7086.ts
+#EXTINF:-1,AR AD-DRAMA
+http://ip.fannan.se:8000/live/332/332/7085.ts
+#EXTINF:-1,AR AD-NatGeo
+http://ip.fannan.se:8000/live/332/332/7084.ts
+#EXTINF:-1,AR AD_ALOULA
+http://ip.fannan.se:8000/live/332/332/7083.ts
+#EXTINF:-1,AR Aghani-Aghani
+http://ip.fannan.se:8000/live/332/332/7036.ts
+#EXTINF:-1,AR AJMAN-TV
+http://ip.fannan.se:8000/live/332/332/7082.ts
+#EXTINF:-1,AR Al-Arabiya
+http://ip.fannan.se:8000/live/332/332/7105.ts
+#EXTINF:-1,AR Al-Arabiya-Alhadath
+http://ip.fannan.se:8000/live/332/332/7104.ts
+#EXTINF:-1,AR sky news arabia
+http://ip.fannan.se:8000/live/332/332/9650.ts
+#EXTINF:-1,AR France24 Arabic
+http://ip.fannan.se:8000/live/332/332/7101.ts
+#EXTINF:-1,AR BBC_Arabic
+http://ip.fannan.se:8000/live/332/332/7102.ts
+#EXTINF:-1,AR AL-JAZEERA
+http://ip.fannan.se:8000/live/332/332/7103.ts
+#EXTINF:-1,AR Russia Alyaum
+http://ip.fannan.se:8000/live/332/332/7100.ts
+#EXTINF:-1,AR Baraem
+http://ip.fannan.se:8000/live/332/332/7010.ts
+#EXTINF:-1,AR TOYORAL-JANAH
+http://ip.fannan.se:8000/live/332/332/6968.ts
+#EXTINF:-1,AR Toyor BABY
+http://ip.fannan.se:8000/live/332/332/9504.ts
+#EXTINF:-1,AR AL-ASSEMA
+http://ip.fannan.se:8000/live/332/332/7081.ts
+#EXTINF:-1,AR AL-Hadath
+http://ip.fannan.se:8000/live/332/332/7098.ts
+#EXTINF:-1,AR AL-HAQIQA
+http://ip.fannan.se:8000/live/332/332/7080.ts
+#EXTINF:-1,AR Al-Hayat-Cinema
+http://ip.fannan.se:8000/live/332/332/7035.ts
+#EXTINF:-1,AR Afak
+http://ip.fannan.se:8000/live/332/332/7061.ts
+#EXTINF:-1,AR Al-Rafiden
+http://ip.fannan.se:8000/live/332/332/7025.ts
+#EXTINF:-1,AR AL-RASHEED
+http://ip.fannan.se:8000/live/332/332/7076.ts
+#EXTINF:-1,AR Al-Sumaria-TV
+http://ip.fannan.se:8000/live/332/332/7024.ts
+#EXTINF:-1,AR AlAnwar
+http://ip.fannan.se:8000/live/332/332/7059.ts
+#EXTINF:-1,AR AlBasra
+http://ip.fannan.se:8000/live/332/332/7075.ts
+#EXTINF:-1,AR ALBASRA-IRAQ
+http://ip.fannan.se:8000/live/332/332/7073.ts
+#EXTINF:-1,AR AlDiyar
+http://ip.fannan.se:8000/live/332/332/7058.ts
+#EXTINF:-1,AR Alforat
+http://ip.fannan.se:8000/live/332/332/7053.ts
+#EXTINF:-1,AR ALGHAD-ALARABI
+http://ip.fannan.se:8000/live/332/332/7046.ts
+#EXTINF:-1,AR AlGhadeer
+http://ip.fannan.se:8000/live/332/332/7072.ts
+#EXTINF:-1,AR Alhurra-Iraq
+http://ip.fannan.se:8000/live/332/332/7052.ts
+#EXTINF:-1,AR Almawsleya
+http://ip.fannan.se:8000/live/332/332/7074.ts
+#EXTINF:-1,AR AlRafidain
+http://ip.fannan.se:8000/live/332/332/7054.ts
+#EXTINF:-1,AR AlRasheedIraqia
+http://ip.fannan.se:8000/live/332/332/7051.ts
+#EXTINF:-1,AR Alsharqiya-News
+http://ip.fannan.se:8000/live/332/332/7065.ts
+#EXTINF:-1,AR AlSharqiyaTV
+http://ip.fannan.se:8000/live/332/332/7066.ts
+#EXTINF:-1,AR Altejah
+http://ip.fannan.se:8000/live/332/332/7057.ts
+#EXTINF:-1,AR Baghdad-TV
+http://ip.fannan.se:8000/live/332/332/7056.ts
+#EXTINF:-1,AR dijla
+http://ip.fannan.se:8000/live/332/332/7063.ts
+#EXTINF:-1,AR Dijlah-TV
+http://ip.fannan.se:8000/live/332/332/6993.ts
+#EXTINF:-1,AR HonaBaghdad
+http://ip.fannan.se:8000/live/332/332/7050.ts
+#EXTINF:-1,AR Iraq
+http://ip.fannan.se:8000/live/332/332/7069.ts
+#EXTINF:-1,AR IRAQ-FUTURE
+http://ip.fannan.se:8000/live/332/332/7071.ts
+#EXTINF:-1,AR Iraqia
+http://ip.fannan.se:8000/live/332/332/6972.ts
+#EXTINF:-1,AR Iraqia-Sport
+http://ip.fannan.se:8000/live/332/332/6971.ts
+#EXTINF:-1,AR Iraqiya
+http://ip.fannan.se:8000/live/332/332/7070.ts
+#EXTINF:-1,AR IraqiyaSport
+http://ip.fannan.se:8000/live/332/332/7068.ts
+#EXTINF:-1,AR Ishtar
+http://ip.fannan.se:8000/live/332/332/7048.ts
+#EXTINF:-1,AR Karbala
+http://ip.fannan.se:8000/live/332/332/7055.ts
+#EXTINF:-1,AR maaref
+http://ip.fannan.se:8000/live/332/332/7060.ts
+#EXTINF:-1,AR Sharqiya-From-Kalba
+http://ip.fannan.se:8000/live/332/332/7064.ts
+#EXTINF:-1,AR zahra
+http://ip.fannan.se:8000/live/332/332/7062.ts
+#EXTINF:-1,AR Al-Insen
+http://ip.fannan.se:8000/live/332/332/7034.ts
+#EXTINF:-1,AR al-janoubeya
+http://ip.fannan.se:8000/live/332/332/6912.ts
+#EXTINF:-1,AR Al-Kaherw-walNas
+http://ip.fannan.se:8000/live/332/332/7033.ts
+#EXTINF:-1,AR AL-MAGHRIBIA
+http://ip.fannan.se:8000/live/332/332/7079.ts
+#EXTINF:-1,AR Al-Masar
+http://ip.fannan.se:8000/live/332/332/7032.ts
+#EXTINF:-1,AR AL-MASSAR-AL-OULA
+http://ip.fannan.se:8000/live/332/332/7078.ts
+#EXTINF:-1,AR Al-Mawsleya
+http://ip.fannan.se:8000/live/332/332/7031.ts
+#EXTINF:-1,AR AL-NADA
+http://ip.fannan.se:8000/live/332/332/7077.ts
+#EXTINF:-1,AR SAT7-ARABIC
+http://ip.fannan.se:8000/live/332/332/6930.ts
+#EXTINF:-1,AR Al-Nahar
+http://ip.fannan.se:8000/live/332/332/7030.ts
+#EXTINF:-1,AR Al-Nahar 2
+http://ip.fannan.se:8000/live/332/332/7029.ts
+#EXTINF:-1,AR Al-Nahar-Cinema
+http://ip.fannan.se:8000/live/332/332/7028.ts
+#EXTINF:-1,AR Al-nahar-noor
+http://ip.fannan.se:8000/live/332/332/7023.ts
+#EXTINF:-1,AR Al-Nahar-Sport
+http://ip.fannan.se:8000/live/332/332/7027.ts
+#EXTINF:-1,AR Al-NaharAl-Youm
+http://ip.fannan.se:8000/live/332/332/7026.ts
+#EXTINF:-1,AR Alerth-Alnbawi
+http://ip.fannan.se:8000/live/332/332/7020.ts
+#EXTINF:-1,AR ALFATH_Quran
+http://ip.fannan.se:8000/live/332/332/7047.ts
+#EXTINF:-1,AR ALhayah-ALaan
+http://ip.fannan.se:8000/live/332/332/7040.ts
+#EXTINF:-1,AR ALHAYAT
+http://ip.fannan.se:8000/live/332/332/7045.ts
+#EXTINF:-1,AR Alhayat-Muslsalat
+http://ip.fannan.se:8000/live/332/332/7019.ts
+#EXTINF:-1,AR Alhayat_2
+http://ip.fannan.se:8000/live/332/332/7018.ts
+#EXTINF:-1,AR Alhurra
+http://ip.fannan.se:8000/live/332/332/7017.ts
+#EXTINF:-1,AR ALIMAN-TV
+http://ip.fannan.se:8000/live/332/332/7044.ts
+#EXTINF:-1,AR AlKaheraWal-Nas 2
+http://ip.fannan.se:8000/live/332/332/7022.ts
+#EXTINF:-1,AR ALMASRAWIA-AFLAM
+http://ip.fannan.se:8000/live/332/332/7043.ts
+#EXTINF:-1,AR AlNahar-Drama
+http://ip.fannan.se:8000/live/332/332/7021.ts
+#EXTINF:-1,AR Alrai
+http://ip.fannan.se:8000/live/332/332/7016.ts
+#EXTINF:-1,AR Alruqia-TV
+http://ip.fannan.se:8000/live/332/332/7015.ts
+#EXTINF:-1,AR Cairo-Drama
+http://ip.fannan.se:8000/live/332/332/6999.ts
+#EXTINF:-1,AR CAIRO-ONE-TV
+http://ip.fannan.se:8000/live/332/332/7009.ts
+#EXTINF:-1,AR CBC
+http://ip.fannan.se:8000/live/332/332/7008.ts
+#EXTINF:-1,AR CBC-Extra
+http://ip.fannan.se:8000/live/332/332/7007.ts
+#EXTINF:-1,AR CBC-Sofra
+http://ip.fannan.se:8000/live/332/332/7006.ts
+#EXTINF:-1,AR CBC_Drama
+http://ip.fannan.se:8000/live/332/332/7005.ts
+#EXTINF:-1,AR CBS_Drama
+http://ip.fannan.se:8000/live/332/332/7004.ts
+#EXTINF:-1,AR Cima
+http://ip.fannan.se:8000/live/332/332/6997.ts
+#EXTINF:-1,AR CINEMA-ALWAN
+http://ip.fannan.se:8000/live/332/332/7002.ts
+#EXTINF:-1,AR CINEMA1
+http://ip.fannan.se:8000/live/332/332/7003.ts
+#EXTINF:-1,AR CINEMA2
+http://ip.fannan.se:8000/live/332/332/7001.ts
+#EXTINF:-1,AR CIRA-TV
+http://ip.fannan.se:8000/live/332/332/7000.ts
+#EXTINF:-1,AR DARBAKA-CINEMA
+http://ip.fannan.se:8000/live/332/332/6996.ts
+#EXTINF:-1,AR DREAM1
+http://ip.fannan.se:8000/live/332/332/6995.ts
+#EXTINF:-1,AR Dream2
+http://ip.fannan.se:8000/live/332/332/6992.ts
+#EXTINF:-1,AR DUBAI-ONE
+http://ip.fannan.se:8000/live/332/332/7090.ts
+#EXTINF:-1,AR DUBAI-SPORT
+http://ip.fannan.se:8000/live/332/332/7089.ts
+#EXTINF:-1,AR DUBAITV
+http://ip.fannan.se:8000/live/332/332/7088.ts
+#EXTINF:-1,AR DW-TV-ARABIA
+http://ip.fannan.se:8000/live/332/332/7099.ts
+#EXTINF:-1,AR DZAIR16
+http://ip.fannan.se:8000/live/332/332/6994.ts
+#EXTINF:-1,AR Dzair_TV
+http://ip.fannan.se:8000/live/332/332/6991.ts
+#EXTINF:-1,AR EBC3
+http://ip.fannan.se:8000/live/332/332/6990.ts
+#EXTINF:-1,AR Echorouk-News
+http://ip.fannan.se:8000/live/332/332/6986.ts
+#EXTINF:-1,AR Echorouk_News
+http://ip.fannan.se:8000/live/332/332/6985.ts
+#EXTINF:-1,AR Echourouk
+http://ip.fannan.se:8000/live/332/332/6984.ts
+#EXTINF:-1,AR EL-DJAZAIRIA
+http://ip.fannan.se:8000/live/332/332/6988.ts
+#EXTINF:-1,AR El-Mouritaniya
+http://ip.fannan.se:8000/live/332/332/6983.ts
+#EXTINF:-1,CBC BENNA
+http://ip.fannan.se:8000/live/332/332/6982.ts
+#EXTINF:-1,AR ENNAHAR_TV
+http://ip.fannan.se:8000/live/332/332/6987.ts
+#EXTINF:-1,AR EuroNews
+http://ip.fannan.se:8000/live/332/332/6981.ts
+#EXTINF:-1,AR FUNoon
+http://ip.fannan.se:8000/live/332/332/7114.ts
+#EXTINF:-1,AR GNN
+http://ip.fannan.se:8000/live/332/332/6980.ts
+#EXTINF:-1,AR HD-CLASSIC
+http://ip.fannan.se:8000/live/332/332/6979.ts
+#EXTINF:-1,AR HD-FILM
+http://ip.fannan.se:8000/live/332/332/6978.ts
+#EXTINF:-1,AR HEYA
+http://ip.fannan.se:8000/live/332/332/6976.ts
+#EXTINF:-1,AR History
+http://ip.fannan.se:8000/live/332/332/6975.ts
+#EXTINF:-1,AR hiware
+http://ip.fannan.se:8000/live/332/332/6910.ts
+#EXTINF:-1,AR Imagine_Movies
+http://ip.fannan.se:8000/live/332/332/6974.ts
+#EXTINF:-1,AR NILE-SPORT
+http://ip.fannan.se:8000/live/332/332/6951.ts
+#EXTINF:-1,AR Nile_Cinema
+http://ip.fannan.se:8000/live/332/332/6947.ts
+#EXTINF:-1,AR Nile_Comedy
+http://ip.fannan.se:8000/live/332/332/6946.ts
+#EXTINF:-1,AR Nile_Drama
+http://ip.fannan.se:8000/live/332/332/6945.ts
+#EXTINF:-1,AR Nile_Family
+http://ip.fannan.se:8000/live/332/332/6944.ts
+#EXTINF:-1,AR Nile_Life
+http://ip.fannan.se:8000/live/332/332/6943.ts
+#EXTINF:-1,AR Nile_news
+http://ip.fannan.se:8000/live/332/332/6942.ts
+#EXTINF:-1,AR NOOR-DUBAI
+http://ip.fannan.se:8000/live/332/332/7091.ts
+#EXTINF:-1,AR NOUREL-SHAM
+http://ip.fannan.se:8000/live/332/332/6949.ts
+#EXTINF:-1,AR Noursat
+http://ip.fannan.se:8000/live/332/332/6941.ts
+#EXTINF:-1,AR Numidia-News-algerie
+http://ip.fannan.se:8000/live/332/332/6940.ts
+#EXTINF:-1,AR Orient TV
+http://ip.fannan.se:8000/live/332/332/7106.ts
+#EXTINF:-1,AR Panorama-Drama
+http://ip.fannan.se:8000/live/332/332/6938.ts
+#EXTINF:-1,AR Panorama-Drama2
+http://ip.fannan.se:8000/live/332/332/6937.ts
+#EXTINF:-1,AR Panorama-FOOD
+http://ip.fannan.se:8000/live/332/332/6936.ts
+#EXTINF:-1,FR-13eme-Rue-HD
+http://ip.fannan.se:8000/live/332/332/7337.ts
+#EXTINF:-1,FR-6TER-HD
+http://ip.fannan.se:8000/live/332/332/7333.ts
+#EXTINF:-1,FR-AB1-HD
+http://ip.fannan.se:8000/live/332/332/7372.ts
+#EXTINF:-1,FR-ACTION-HD
+http://ip.fannan.se:8000/live/332/332/7382.ts
+#EXTINF:-1,FR-ANIMAUX
+http://ip.fannan.se:8000/live/332/332/7365.ts
+#EXTINF:-1,FR-ARTE-HD
+http://ip.fannan.se:8000/live/332/332/7379.ts
+#EXTINF:-1,FR-BEINSPORT1
+http://ip.fannan.se:8000/live/332/332/7363.ts
+#EXTINF:-1,FR-BEINSPORT2
+http://ip.fannan.se:8000/live/332/332/7362.ts
+#EXTINF:-1,FR-BEINSPORT3
+http://ip.fannan.se:8000/live/332/332/7361.ts
+#EXTINF:-1,FR-BEINSPORT4
+http://ip.fannan.se:8000/live/332/332/7360.ts
+#EXTINF:-1,FR-BEINSPORT5
+http://ip.fannan.se:8000/live/332/332/7359.ts
+#EXTINF:-1,FR-BEINSPORT6
+http://ip.fannan.se:8000/live/332/332/7358.ts
+#EXTINF:-1,FR-BEINSPORT7
+http://ip.fannan.se:8000/live/332/332/7357.ts
+#EXTINF:-1,FR-BFM-TV
+http://ip.fannan.se:8000/live/332/332/7374.ts
+#EXTINF:-1,FR-Boing
+http://ip.fannan.se:8000/live/332/332/7324.ts
+#EXTINF:-1,FR-BOOMERANG-HD
+http://ip.fannan.se:8000/live/332/332/7386.ts
+#EXTINF:-1,FR-CANAL
+http://ip.fannan.se:8000/live/332/332/7364.ts
+#EXTINF:-1,FR-Canal--Decale-HD
+http://ip.fannan.se:8000/live/332/332/7334.ts
+#EXTINF:-1,FR-Canal-7
+http://ip.fannan.se:8000/live/332/332/7371.ts
+#EXTINF:-1,FR-CANAL-CINEMA
+http://ip.fannan.se:8000/live/332/332/7370.ts
+#EXTINF:-1,FR-CANAL-FAMILY
+http://ip.fannan.se:8000/live/332/332/7369.ts
+#EXTINF:-1,FR-Canal-Family-HD
+http://ip.fannan.se:8000/live/332/332/7335.ts
+#EXTINF:-1,FR-CANAL-FAMLY-HD
+http://ip.fannan.se:8000/live/332/332/7339.ts
+#EXTINF:-1,FR-CANAL-HD
+http://ip.fannan.se:8000/live/332/332/7338.ts
+#EXTINF:-1,FR-CANAL-SPORT
+http://ip.fannan.se:8000/live/332/332/7368.ts
+#EXTINF:-1,FR-CANAL-SPORT-HD
+http://ip.fannan.se:8000/live/332/332/7336.ts
+#EXTINF:-1,FR-CartoonNetwork
+http://ip.fannan.se:8000/live/332/332/7325.ts
+#EXTINF:-1,FR-Cine-Emotion
+http://ip.fannan.se:8000/live/332/332/7327.ts
+#EXTINF:-1,FR-Cine-Famiz
+http://ip.fannan.se:8000/live/332/332/7328.ts
+#EXTINF:-1,FR-CINE-FRISSON
+http://ip.fannan.se:8000/live/332/332/7356.ts
+#EXTINF:-1,FR-Cine-FX
+http://ip.fannan.se:8000/live/332/332/7385.ts
+#EXTINF:-1,FR-CINE-POLAR
+http://ip.fannan.se:8000/live/332/332/7384.ts
+#EXTINF:-1,FR-CINE-PREMIER-HD
+http://ip.fannan.se:8000/live/332/332/7340.ts
+#EXTINF:-1,FR-D17
+http://ip.fannan.se:8000/live/332/332/7355.ts
+#EXTINF:-1,FR-D8
+http://ip.fannan.se:8000/live/332/332/7378.ts
+#EXTINF:-1,FR-Discovery-HD
+http://ip.fannan.se:8000/live/332/332/7329.ts
+#EXTINF:-1,FR-DISNEY-CINEMA
+http://ip.fannan.se:8000/live/332/332/7341.ts
+#EXTINF:-1,FR-DISNEY-CINEMA-hd
+http://ip.fannan.se:8000/live/332/332/7307.ts
+#EXTINF:-1,FR-Disney-Cinemagic
+http://ip.fannan.se:8000/live/332/332/7330.ts
+#EXTINF:-1,FR-Disney-HD
+http://ip.fannan.se:8000/live/332/332/7308.ts
+#EXTINF:-1,FR-DisneyJunior
+http://ip.fannan.se:8000/live/332/332/7309.ts
+#EXTINF:-1,FR-Equidia-Live
+http://ip.fannan.se:8000/live/332/332/7387.ts
+#EXTINF:-1,FR-EUROSPORT-1-HD
+http://ip.fannan.se:8000/live/332/332/7352.ts
+#EXTINF:-1,FR-FRANCE-2HD
+http://ip.fannan.se:8000/live/332/332/7345.ts
+#EXTINF:-1,FR-FRANCE-3-HD
+http://ip.fannan.se:8000/live/332/332/7344.ts
+#EXTINF:-1,FR-FRANCE-4-HD
+http://ip.fannan.se:8000/live/332/332/7343.ts
+#EXTINF:-1,FR-FRANCE-5-HD
+http://ip.fannan.se:8000/live/332/332/7342.ts
+#EXTINF:-1,FR-FRANCE-O
+http://ip.fannan.se:8000/live/332/332/7346.ts
+#EXTINF:-1,FR-France24
+http://ip.fannan.se:8000/live/332/332/7351.ts
+#EXTINF:-1,FR-GONG
+http://ip.fannan.se:8000/live/332/332/7323.ts
+#EXTINF:-1,FR-Gulli-HD
+http://ip.fannan.se:8000/live/332/332/7373.ts
+#EXTINF:-1,FR-Infosport
+http://ip.fannan.se:8000/live/332/332/7322.ts
+#EXTINF:-1,FR-ITELE
+http://ip.fannan.se:8000/live/332/332/7375.ts
+#EXTINF:-1,FR-Kombat-Sport
+http://ip.fannan.se:8000/live/332/332/7321.ts
+#EXTINF:-1,FR-M6-Music
+http://ip.fannan.se:8000/live/332/332/7354.ts
+#EXTINF:-1,FR-M6HD
+http://ip.fannan.se:8000/live/332/332/7353.ts
+#EXTINF:-1,FR-Manga
+http://ip.fannan.se:8000/live/332/332/7320.ts
+#EXTINF:-1,FR-Mangas
+http://ip.fannan.se:8000/live/332/332/7381.ts
+#EXTINF:-1,FR-NATIONALGEO-WILD-HD
+http://ip.fannan.se:8000/live/332/332/7347.ts
+#EXTINF:-1,FR-Nickelodeon-JUNIOR
+http://ip.fannan.se:8000/live/332/332/7310.ts
+#EXTINF:-1,FR-NRJ12
+http://ip.fannan.se:8000/live/332/332/7348.ts
+#EXTINF:-1,FR-NRJ12-HD
+http://ip.fannan.se:8000/live/332/332/7376.ts
+#EXTINF:-1,FR-OCS-Choc
+http://ip.fannan.se:8000/live/332/332/7331.ts
+#EXTINF:-1,FR-OCS-City-HD
+http://ip.fannan.se:8000/live/332/332/7319.ts
+#EXTINF:-1,FR-OCS-Geants-HD
+http://ip.fannan.se:8000/live/332/332/7318.ts
+#EXTINF:-1,FR-OCS-Max-HD
+http://ip.fannan.se:8000/live/332/332/7317.ts
+#EXTINF:-1,FR-Paramount-Channel-HD-France
+http://ip.fannan.se:8000/live/332/332/7316.ts
+#EXTINF:-1,FR-Paris-Premiere-HD
+http://ip.fannan.se:8000/live/332/332/7315.ts
+#EXTINF:-1,FR-Piwi
+http://ip.fannan.se:8000/live/332/332/7388.ts
+#EXTINF:-1,FR-Planète-ci
+http://ip.fannan.se:8000/live/332/332/7349.ts
+#EXTINF:-1,FR-RTL9
+http://ip.fannan.se:8000/live/332/332/7326.ts
+#EXTINF:-1,FR-SFR-SPORT-1-HD
+http://ip.fannan.se:8000/live/332/332/7392.ts
+#EXTINF:-1,FR-SFR-SPORT-2-HD
+http://ip.fannan.se:8000/live/332/332/7391.ts
+#EXTINF:-1,FR-SFR-SPORT-3-HD
+http://ip.fannan.se:8000/live/332/332/7390.ts
+#EXTINF:-1,FR-SYFY-HD
+http://ip.fannan.se:8000/live/332/332/7314.ts
+#EXTINF:-1,FR-Teletoon-HD
+http://ip.fannan.se:8000/live/332/332/7389.ts
+#EXTINF:-1,FR-TEVA-HD
+http://ip.fannan.se:8000/live/332/332/7380.ts
+#EXTINF:-1,FR-TF1
+http://ip.fannan.se:8000/live/332/332/7367.ts
+#EXTINF:-1,FR-TF1-HD
+http://ip.fannan.se:8000/live/332/332/7313.ts
+#EXTINF:-1,FR-Tiji
+http://ip.fannan.se:8000/live/332/332/7312.ts
+#EXTINF:-1,FR-TMC
+http://ip.fannan.se:8000/live/332/332/7377.ts
+#EXTINF:-1,FR-Teletoon
+http://ip.fannan.se:8000/live/332/332/7383.ts
+#EXTINF:-1,FR-Tv5-Monde
+http://ip.fannan.se:8000/live/332/332/7350.ts
+#EXTINF:-1,FR-TV5-Monde-europe
+http://ip.fannan.se:8000/live/332/332/7311.ts
+#EXTINF:-1,FR-USHUAIA
+http://ip.fannan.se:8000/live/332/332/7366.ts
+#EXTINF:-1,FR-W9
+http://ip.fannan.se:8000/live/332/332/7332.ts
+#EXTINF:-1,****Greec Channels _****
+http://ip.fannan.se:8000/live/332/332/7414.ts
+#EXTINF:-1,GR: AB Channel
+http://ip.fannan.se:8000/live/332/332/11071.ts
+#EXTINF:-1,GR: Action 24
+http://ip.fannan.se:8000/live/332/332/11070.ts
+#EXTINF:-1,GR: Aigaio TV
+http://ip.fannan.se:8000/live/332/332/11069.ts
+#EXTINF:-1,GR: Alert TV
+http://ip.fannan.se:8000/live/332/332/11068.ts
+#EXTINF:-1,GR: Alpha
+http://ip.fannan.se:8000/live/332/332/11067.ts
+#EXTINF:-1,GR: Ant1
+http://ip.fannan.se:8000/live/332/332/11066.ts
+#EXTINF:-1,GR: Ant1 Cy
+http://ip.fannan.se:8000/live/332/332/11065.ts
+#EXTINF:-1,GR: APT
+http://ip.fannan.se:8000/live/332/332/11064.ts
+#EXTINF:-1,GR: Astra
+http://ip.fannan.se:8000/live/332/332/11063.ts
+#EXTINF:-1,GR: Attica
+http://ip.fannan.se:8000/live/332/332/11062.ts
+#EXTINF:-1,GR: Axeloos
+http://ip.fannan.se:8000/live/332/332/11061.ts
+#EXTINF:-1,GR: BBC
+http://ip.fannan.se:8000/live/332/332/11060.ts
+#EXTINF:-1,GR: Blue Sky
+http://ip.fannan.se:8000/live/332/332/11059.ts
+#EXTINF:-1,GR: Boyah
+http://ip.fannan.se:8000/live/332/332/11058.ts
+#EXTINF:-1,GR: Channel 9
+http://ip.fannan.se:8000/live/332/332/11057.ts
+#EXTINF:-1,GR: Creta
+http://ip.fannan.se:8000/live/332/332/11056.ts
+#EXTINF:-1,GR: Diavata TV
+http://ip.fannan.se:8000/live/332/332/11055.ts
+#EXTINF:-1,GR: E TV
+http://ip.fannan.se:8000/live/332/332/11054.ts
+#EXTINF:-1,GR: Ellinikosfm TV
+http://ip.fannan.se:8000/live/332/332/11053.ts
+#EXTINF:-1,GR: Epirus Tv1
+http://ip.fannan.se:8000/live/332/332/11052.ts
+#EXTINF:-1,GR: ERT HD
+http://ip.fannan.se:8000/live/332/332/11049.ts
+#EXTINF:-1,GR: ERT 1
+http://ip.fannan.se:8000/live/332/332/11051.ts
+#EXTINF:-1,GR: ERT 2
+http://ip.fannan.se:8000/live/332/332/11050.ts
+#EXTINF:-1,GR:ERT_3
+http://ip.fannan.se:8000/live/332/332/7403.ts
+#EXTINF:-1,GR: Eurosport
+http://ip.fannan.se:8000/live/332/332/11048.ts
+#EXTINF:-1,GR: Extra
+http://ip.fannan.se:8000/live/332/332/11047.ts
+#EXTINF:-1,GR: High
+http://ip.fannan.se:8000/live/332/332/11046.ts
+#EXTINF:-1,GR: IDx
+http://ip.fannan.se:8000/live/332/332/11045.ts
+#EXTINF:-1,GR: Kontra
+http://ip.fannan.se:8000/live/332/332/11044.ts
+#EXTINF:-1,GR: Krhth Tv
+http://ip.fannan.se:8000/live/332/332/11043.ts
+#EXTINF:-1,GR: Lyxnoc
+http://ip.fannan.se:8000/live/332/332/11042.ts
+#EXTINF:-1,GR: Mad
+http://ip.fannan.se:8000/live/332/332/11041.ts
+#EXTINF:-1,GR: Mad Cy
+http://ip.fannan.se:8000/live/332/332/11040.ts
+#EXTINF:-1,GR: Makedonia
+http://ip.fannan.se:8000/live/332/332/11039.ts
+#EXTINF:-1,GR: Mega
+http://ip.fannan.se:8000/live/332/332/11038.ts
+#EXTINF:-1,GR: Messinia TV
+http://ip.fannan.se:8000/live/332/332/11037.ts
+#EXTINF:-1,GR: Nea
+http://ip.fannan.se:8000/live/332/332/11036.ts
+#EXTINF:-1,GR: New TV
+http://ip.fannan.se:8000/live/332/332/11035.ts
+#EXTINF:-1,GR: Nickelodeon
+http://ip.fannan.se:8000/live/332/332/11034.ts
+#EXTINF:-1,GR: Omega
+http://ip.fannan.se:8000/live/332/332/11033.ts
+#EXTINF:-1,GR: Rise
+http://ip.fannan.se:8000/live/332/332/11032.ts
+#EXTINF:-1,GR: Samiaki
+http://ip.fannan.se:8000/live/332/332/11031.ts
+#EXTINF:-1,GR: SBC
+http://ip.fannan.se:8000/live/332/332/11030.ts
+#EXTINF:-1,GR: Sigma Cy
+http://ip.fannan.se:8000/live/332/332/11029.ts
+#EXTINF:-1,GR: Skai
+http://ip.fannan.se:8000/live/332/332/11028.ts
+#EXTINF:-1,GR: Smile
+http://ip.fannan.se:8000/live/332/332/11027.ts
+#EXTINF:-1,GR: Star
+http://ip.fannan.se:8000/live/332/332/11026.ts
+#EXTINF:-1,GR: Start TV
+http://ip.fannan.se:8000/live/332/332/11025.ts
+#EXTINF:-1,GR: Sunny Channel
+http://ip.fannan.se:8000/live/332/332/11024.ts
+#EXTINF:-1,GR: Teel Sport
+http://ip.fannan.se:8000/live/332/332/11023.ts
+#EXTINF:-1,GR: TLC
+http://ip.fannan.se:8000/live/332/332/11022.ts
+#EXTINF:-1,GR: TV 4E
+http://ip.fannan.se:8000/live/332/332/11021.ts
+#EXTINF:-1,GR: TV1 Siros
+http://ip.fannan.se:8000/live/332/332/11020.ts
+#EXTINF:-1,GR: TV100
+http://ip.fannan.se:8000/live/332/332/11019.ts
+#EXTINF:-1,GR: Vouli
+http://ip.fannan.se:8000/live/332/332/11018.ts
+#EXTINF:-1,GR: Animal Planet
+http://ip.fannan.se:8000/live/332/332/11017.ts
+#EXTINF:-1,GR:4E
+http://ip.fannan.se:8000/live/332/332/7397.ts
+#EXTINF:-1,GR:4E_Star
+http://ip.fannan.se:8000/live/332/332/7398.ts
+#EXTINF:-1,GR:Alpha
+http://ip.fannan.se:8000/live/332/332/7399.ts
+#EXTINF:-1,GR:Art
+http://ip.fannan.se:8000/live/332/332/7400.ts
+#EXTINF:-1,GR:Blue_Sky
+http://ip.fannan.se:8000/live/332/332/7401.ts
+#EXTINF:-1,GR:E
+http://ip.fannan.se:8000/live/332/332/7402.ts
+#EXTINF:-1,GR:Eurosport_1
+http://ip.fannan.se:8000/live/332/332/7404.ts
+#EXTINF:-1,GR:Eurosport_2
+http://ip.fannan.se:8000/live/332/332/7405.ts
+#EXTINF:-1,GR:Lepanto
+http://ip.fannan.se:8000/live/332/332/7406.ts
+#EXTINF:-1,GR:Mega
+http://ip.fannan.se:8000/live/332/332/7407.ts
+#EXTINF:-1,GR:MESSINIA_TV
+http://ip.fannan.se:8000/live/332/332/7408.ts
+#EXTINF:-1,GR:SAMIAKI
+http://ip.fannan.se:8000/live/332/332/7409.ts
+#EXTINF:-1,GR:SBC
+http://ip.fannan.se:8000/live/332/332/7394.ts
+#EXTINF:-1,GR:Sigma
+http://ip.fannan.se:8000/live/332/332/7410.ts
+#EXTINF:-1,GR:Skai
+http://ip.fannan.se:8000/live/332/332/7411.ts
+#EXTINF:-1,GR:Star
+http://ip.fannan.se:8000/live/332/332/7395.ts
+#EXTINF:-1,GR:Thraki_TV
+http://ip.fannan.se:8000/live/332/332/7412.ts
+#EXTINF:-1,GR:TILESPORT
+http://ip.fannan.se:8000/live/332/332/7413.ts
+#EXTINF:-1,GR:Zougla_TV
+http://ip.fannan.se:8000/live/332/332/7396.ts
